@@ -21,7 +21,8 @@ matplotlib / tqdm – for visualization and progress display
 ├── sample_output.png               # Evaluation bar chart (optional)
 ├── README.md                       # Project documentation
 🔄 How to Reproduce
-Open the notebook in Google Colab. link: https://colab.research.google.com/drive/1SaFGdAC8ktC5ggZXZ3ETpnhGcltVFJUO?usp=sharing
+Open the notebook in Google Colab. 
+link: https://colab.research.google.com/drive/1SaFGdAC8ktC5ggZXZ3ETpnhGcltVFJUO?usp=sharing
 
 Run all cells in order (no GPU required).
 
